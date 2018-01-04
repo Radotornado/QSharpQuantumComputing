@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Superposition", "Superposition\Superposition.csproj", "{A705CC78-84BA-431A-910A-F1CDA7E80590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entanglement", "Entanglement\Entanglement.csproj", "{39D4F29E-D7FC-4338-8BFC-5B4D809B7390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teleportation", "Teleportation\Teleportation.csproj", "{04429DF6-DE9C-4250-9432-2853CD7C2296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A705CC78-84BA-431A-910A-F1CDA7E80590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A705CC78-84BA-431A-910A-F1CDA7E80590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A705CC78-84BA-431A-910A-F1CDA7E80590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A705CC78-84BA-431A-910A-F1CDA7E80590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D4F29E-D7FC-4338-8BFC-5B4D809B7390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D4F29E-D7FC-4338-8BFC-5B4D809B7390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D4F29E-D7FC-4338-8BFC-5B4D809B7390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D4F29E-D7FC-4338-8BFC-5B4D809B7390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04429DF6-DE9C-4250-9432-2853CD7C2296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04429DF6-DE9C-4250-9432-2853CD7C2296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04429DF6-DE9C-4250-9432-2853CD7C2296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04429DF6-DE9C-4250-9432-2853CD7C2296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E4D848-E2B0-4E56-B0BC-41EC00430934}
+	EndGlobalSection
+EndGlobal

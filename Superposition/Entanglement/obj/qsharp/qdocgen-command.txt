@@ -1,0 +1,4 @@
+:: files ::
+Entanglement.qs
+:: command ::
+"C:\Users\rado\Documents\GitHub\QSharpQuantumComputing\Superposition\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\build\..\tools\qdocgen\docgen.exe" --input "Entanglement.qs" --doc-output obj\qsharp\docs\
